@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Github Repo Size](https://img.shields.io/github/repo-size/novicexp/covid-19)](https://github.com/novicexp/covid-19)
+[![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/covid-19)](https://github.com/harshraj8843/covid-19)
 
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/novicexp/covid-19) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/novicexp/covid-19)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/harshraj8843/covid-19) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/harshraj8843/covid-19)
 
 </div>
 
@@ -26,7 +26,7 @@ A simple covid-19 realtime data fetching tool (**Only for India**)
 
 - clone project
   ```
-  git clone https://github.com/novicexp/covid-19
+  git clone https://github.com/harshraj8843/covid-19
   ```
   ```
   cd covid-19/
